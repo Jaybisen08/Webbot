@@ -117,7 +117,7 @@ https://console.groq.com/keys
 # ▶️ Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run webbot.py
 ```
 
 ---
